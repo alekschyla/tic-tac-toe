@@ -3,13 +3,17 @@ import ReactDOM from 'react-dom';
 import './index.css';
 
 class Square extends React.Component {
+    state = {
+        value: null
+    };
+
     render() {
         return (
             <button
-                onClick={() => {alert('click')}}
+                onClick={() => this.setState({value: 'X'})}
                 className="square"
             >
-                {this.props.value}
+                {this.state.value}
             </button>
         );
     }
