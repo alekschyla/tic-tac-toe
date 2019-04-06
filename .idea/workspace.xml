@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+            <state relative-caret-position="342">
+              <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -120,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554544046588</updated>
-      <workItem from="1554544047730" duration="2431000" />
+      <workItem from="1554544047730" duration="2892000" />
     </task>
     <task id="LOCAL-00001" summary="Setup for the tutorial">
       <created>1554545195929</created>
@@ -157,11 +157,25 @@
       <option name="project" value="LOCAL" />
       <updated>1554546104620</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Add handleClick method to Board">
+      <created>1554546528118</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1554546528118</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Change class Square to a function component">
+      <created>1554546812095</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1554546812095</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2431000" />
+    <option name="totallyTimeSpent" value="2892000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -196,7 +210,9 @@
     <MESSAGE value="Add function to each square" />
     <MESSAGE value="Add state to Square" />
     <MESSAGE value="Modify the Board’s renderSquare method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modify the Board’s renderSquare method" />
+    <MESSAGE value="Add handleClick method to Board" />
+    <MESSAGE value="Change class Square to a function component" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change class Square to a function component" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/App.js">
@@ -215,8 +231,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        <state relative-caret-position="342">
+          <caret line="24" column="41" lean-forward="true" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
