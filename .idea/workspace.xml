@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="173fe3ad-0524-400e-818d-33a3d2b3f71d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -28,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="755">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -120,7 +119,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554544046588</updated>
-      <workItem from="1554544047730" duration="4557000" />
+      <workItem from="1554544047730" duration="5107000" />
     </task>
     <task id="LOCAL-00001" summary="Setup for the tutorial">
       <created>1554545195929</created>
@@ -185,11 +184,25 @@
       <option name="project" value="LOCAL" />
       <updated>1554547434707</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add history">
+      <created>1554548628907</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1554548628907</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Showing past moves">
+      <created>1554549156529</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1554549156529</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4557000" />
+    <option name="totallyTimeSpent" value="5107000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -200,7 +213,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.33004385" />
+      <window_info anchor="bottom" id="Terminal" weight="0.33004385" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -228,7 +241,9 @@
     <MESSAGE value="Change class Square to a function component" />
     <MESSAGE value="Flipped players" />
     <MESSAGE value="Declaring a Winner" />
-    <option name="LAST_COMMIT_MESSAGE" value="Declaring a Winner" />
+    <MESSAGE value="Add history" />
+    <MESSAGE value="Showing past moves" />
+    <option name="LAST_COMMIT_MESSAGE" value="Showing past moves" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/App.js">
@@ -247,8 +262,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="755">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
