@@ -28,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+            <state relative-caret-position="498">
+              <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -120,7 +120,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554544046588</updated>
-      <workItem from="1554544047730" duration="1406000" />
+      <workItem from="1554544047730" duration="2431000" />
     </task>
     <task id="LOCAL-00001" summary="Setup for the tutorial">
       <created>1554545195929</created>
@@ -136,11 +136,32 @@
       <option name="project" value="LOCAL" />
       <updated>1554545359688</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add function to each square">
+      <created>1554545547399</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1554545547399</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add state to Square">
+      <created>1554545765252</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1554545765252</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Modify the Board’s renderSquare method">
+      <created>1554546104620</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1554546104620</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1406000" />
+    <option name="totallyTimeSpent" value="2431000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -172,7 +193,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Setup for the tutorial" />
     <MESSAGE value="Passed a prop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Passed a prop" />
+    <MESSAGE value="Add function to each square" />
+    <MESSAGE value="Add state to Square" />
+    <MESSAGE value="Modify the Board’s renderSquare method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify the Board’s renderSquare method" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/App.js">
@@ -191,8 +215,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        <state relative-caret-position="498">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
