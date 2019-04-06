@@ -20,8 +20,12 @@ class Square extends React.Component {
 }
 
 class Board extends React.Component {
+    state = {
+        squares: Array(9).fill(null)
+    };
+
     renderSquare(i) {
-        return <Square value={i} />;
+        return <Square value={this.state.squares[i]} />;
     }
 
     render() {
